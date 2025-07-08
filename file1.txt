@@ -12,3 +12,4 @@ changing file
 again teating commit vs push
 
 
+now leaving -just commit ..will push later at night
