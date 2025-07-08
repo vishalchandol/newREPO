@@ -8,3 +8,7 @@ resource aws_instance my_name {
     
 }
 changing file
+
+again teating commit vs push
+
+
