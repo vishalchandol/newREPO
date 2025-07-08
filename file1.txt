@@ -1,1 +1,10 @@
 this is my text file to check clone repo
+
+Changing this file locally now.
+This is what you beed to do. Got it ?
+resource aws_instance my_name {
+
+    ami = var.ami
+    
+}
+changing file
